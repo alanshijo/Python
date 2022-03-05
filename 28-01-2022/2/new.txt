@@ -1,0 +1,8 @@
+1. Python is a popular programming language.
+3. web development (server-side),
+5. system scripting.
+7. Python can be used on a server to create web applications.
+9. Why Python?
+11. Python has syntax that allows developers to write programs with fewer lines than some other programming languages.
+13. Python Syntax compared to other programming languages
+15. Python uses new lines to complete a command, as opposed to other programming languages which often use semicolons or parentheses.

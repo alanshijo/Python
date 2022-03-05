@@ -1,0 +1,15 @@
+1. Python is a popular programming language.
+2. It is used for:
+3. web development (server-side),
+4. software development,
+5. system scripting.
+6. What can Python do?
+7. Python can be used on a server to create web applications.
+8. Python can connect to database systems. It can also read and modify files.
+9. Why Python?
+10. Python has a simple syntax similar to the English language.
+11. Python has syntax that allows developers to write programs with fewer lines than some other programming languages.
+12. Python can be treated in a procedural way, an object-oriented way or a functional way.
+13. Python Syntax compared to other programming languages
+14. Python was designed for readability, and has some similarities to the English language with influence from mathematics.
+15. Python uses new lines to complete a command, as opposed to other programming languages which often use semicolons or parentheses.

@@ -1,0 +1,16 @@
+name = str(input("Enter the name of student: "))
+mark1 = int(input("Enter the mark of English out of 100: "))
+mark2 = int(input("Enter the mark of Physics out of 100: "))
+mark3 = int(input("Enter the mark of Chemistry out of 100: "))
+mark4 = int(input("Enter the mark of Biology out of 100: "))
+mark5 = int(input("Enter the mark of Maths out of 100: "))
+total = mark5 + mark4 + mark3 + mark2 + mark1
+percent = (total / 500) * 100
+print("Name of Student: ", name)
+print("Mark of English: ", mark1)
+print("Mark of Physics: ", mark2)
+print("Mark of Chemistry: ", mark3)
+print("Mark of Biology: ", mark4)
+print("Mark of Maths: ", mark5)
+print("Total Marks: ", total)
+print("Percentage: ", percent, "%")
